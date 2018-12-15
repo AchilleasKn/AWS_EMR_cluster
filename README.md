@@ -1,11 +1,10 @@
 # Amazon EMR for Data Science
-## Create on-demand Apache Hadoop cluster to analyze Big Data with Spark
+## Create on-demand Apache Hadoop clusters to analyze Big Data with Spark
 
-
-##### Easily Run and Scale Apache Spark, Hadoop, HBase, Presto, Hive, and other Big Data Frameworks
 
 
 ![Amazon EMR](https://pbs.twimg.com/media/BwuwVcZIQAA8UgJ.png)
+##### Easily Run and Scale Apache Spark, Hadoop, HBase, Presto, Hive, and other Big Data Frameworks
 
 Amazon EMR provides a managed Hadoop framework that makes it easy, fast, and cost-effective to process vast amounts of data across dynamically scalable Amazon EC2 instances. You can also run other popular distributed frameworks such as Apache Spark, HBase, Presto, and Flink in EMR, and interact with data in other AWS data stores such as Amazon S3 and Amazon DynamoDB. EMR Notebooks, based on the popular Jupyter Notebook, provide a development and collaboration environment for ad hoc querying and exploratory analysis.
 
