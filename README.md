@@ -1,5 +1,5 @@
 # Amazon EMR for Data Science
-## Analyzing Big Data on Amazon EMR with Spark
+## Create on-demand Apache Hadoop cluster to analyze Big Data with Spark
 
 
 ##### Easily Run and Scale Apache Spark, Hadoop, HBase, Presto, Hive, and other Big Data Frameworks
