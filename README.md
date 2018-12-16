@@ -196,7 +196,7 @@ Replcase sg-XXXXXXXXXXX with the Master's Security Group id.
 You can also conect to the master node via ssh with the following command:
 
 ```bash
-aws emr ssh --cluster-id -XXXXXXXXXXXXXXX --key-pair-file <your-ec2-key>
+aws emr ssh --cluster-id j-XXXXXXXXXXXXXXX --key-pair-file <your-ec2-key>
 ```
 
 Replace the `<your-ec2-key>` with the path/file of the key.
